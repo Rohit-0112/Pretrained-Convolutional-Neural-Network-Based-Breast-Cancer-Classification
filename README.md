@@ -96,8 +96,10 @@ Run all cells sequentially.
 
 Step 1: Clone Repository
 git clone https://github.com/Rohit-0112/Pretrained-Convolutional-Neural-Network-Based-Breast-Cancer-Classification.git
+
 Step 2: Navigate to Project Folder
 cd Pretrained-Convolutional-Neural-Network-Based-Breast-Cancer-Classification
+
 Step 3: Create Virtual Environment
 Windows
 python -m venv venv
@@ -105,10 +107,12 @@ venv\Scripts\activate
 Linux / MacOS
 python3 -m venv venv
 source venv/bin/activate
+
 Step 4: Install Dependencies
 pip install -r requirements.txt
 Recommended Python Version
 Python 3.10+
+
 Step 5: Launch Jupyter Notebook
 jupyter notebook
 
