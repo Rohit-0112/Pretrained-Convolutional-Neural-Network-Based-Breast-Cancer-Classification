@@ -24,7 +24,7 @@ Magnification Levels:
 400X
 
 Dataset Source:
-Kaggle BreakHis Dataset
+Kaggle BreakHis Dataset (https://www.kaggle.com/datasets/waseemalastal/breakhis-breast-cancer-histopathological-dataset)
 
 Hardware
 Kaggle GPU (Tesla T4 / P100)
